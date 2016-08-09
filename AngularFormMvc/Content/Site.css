@@ -22,3 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+th{
+    font-size: medium;
+    width: 140px;
+    background-color: lightblue;
+}
