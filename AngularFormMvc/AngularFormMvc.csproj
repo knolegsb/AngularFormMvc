@@ -221,6 +221,8 @@
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.min.js" />
     <Content Include="Scripts\angular-mocks.js" />
+    <Content Include="Scripts\angular-resource.js" />
+    <Content Include="Scripts\angular-resource.min.js" />
     <Content Include="Scripts\angular-route.js" />
     <Content Include="Scripts\angular-route.min.js" />
     <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.js" />
@@ -246,6 +248,7 @@
     <Content Include="Models\AngularFormContext.edmx.diagram">
       <DependentUpon>AngularFormContext.edmx</DependentUpon>
     </Content>
+    <Content Include="Scripts\angular-resource.min.js.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

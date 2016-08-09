@@ -1,1 +1,1 @@
-﻿var module = angular.module("studentApp", ["studentController"]);
+﻿var module = angular.module("studentApp", ["studentController", "studentResources"]);
